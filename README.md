@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
 
 
-<p align="center" style="margin:0; padding:0;">
+<h3 align="center" style="margin:0; padding:0;">
   <h3>👤Collaborate with me!</h3>
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="140" height="50" alt="WhatsApp"/>
@@ -14,7 +14,7 @@
   --><a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linkedIn.svg" width="140" height="50" alt="LinkedIn"/>
   </a>
-</p>
+</h3>
 
 </div>
 
