@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=Nova-Stack+Dev's+Store" alt="Typing SVG" />
 <h3 align="center" style="margin:0; padding:0;">
   <h3>👤Ask About A Product👤</h3>
-  <h5>- Or -</h5>
+  <h4>- Or -</h4>
   <h3>👤Collaboration👤</h3>
   <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="85" height="50" alt="WhatsApp"/>
