@@ -35,7 +35,7 @@
 
 ---
 
-I'm a full-stack software engineer with experience designing and delivering scalable, secure enterprise applications. Skilled in building robust APIs, optimizing databases, and leading cloud-based DevOps to speed up deployment and improve reliability. Proven ability to create smooth end-to-end solutions that boost efficiency and user experience. Comfortable across the full stack, writing clean code, and collaborating in cross-functional teams.
+I'm a software engineering student with experience designing and delivering scalable, secure enterprise applications. Skilled in building robust APIs, optimizing databases, and leading cloud-based DevOps to speed up deployment and improve reliability. Proven ability to create smooth end-to-end solutions that boost efficiency and user experience. Comfortable across the full stack, writing clean code, and collaborating in cross-functional teams.
 
 ---
 
