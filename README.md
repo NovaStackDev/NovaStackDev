@@ -30,6 +30,7 @@
 - Systems Programming
 - Financial Market Making
 - Maximal Extractable Value
+- Validation
 - Business Intelligence
 - AI and Deep Learning
 - HTTPS & Web Socket APIs
