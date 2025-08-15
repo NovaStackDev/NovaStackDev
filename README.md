@@ -5,37 +5,21 @@
 <h2>👤 Collaborate with me</h2>
 
 <p align="center">
-  <!-- WhatsApp button (left-rounded) -->
+  <!-- WhatsApp button -->
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
-    <svg xmlns="http://www.w3.org/2000/svg" width="140" height="50">
-      <rect x="0" y="0" width="140" height="50" fill="#8a2be2" rx="25" ry="25"/>
-      <rect x="120" y="0" width="20" height="50" fill="#8a2be2"/>
-      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-            font-family="Arial" font-size="16" fill="white">WhatsApp</text>
-    </svg>
+    <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="140" height="50" alt="WhatsApp"/>
   </a>
 
-  <!-- Email button (square) -->
+  <!-- Email button -->
   <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
-    <svg xmlns="http://www.w3.org/2000/svg" width="140" height="50">
-      <rect x="0" y="0" width="140" height="50" fill="#8a2be2" rx="0" ry="0"/>
-      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-            font-family="Arial" font-size="16" fill="white">Email</text>
-    </svg>
+    <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/email.svg" width="140" height="50" alt="Email"/>
   </a>
 
-  <!-- LinkedIn button (right-rounded) -->
+  <!-- LinkedIn button -->
   <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
-    <svg xmlns="http://www.w3.org/2000/svg" width="140" height="50">
-      <rect x="0" y="0" width="140" height="50" fill="#8a2be2" rx="25" ry="25"/>
-      <rect x="0" y="0" width="20" height="50" fill="#8a2be2"/>
-      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-            font-family="Arial" font-size="16" fill="white">LinkedIn</text>
-    </svg>
+    <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linkedin.svg" width="140" height="50" alt="LinkedIn"/>
   </a>
 </p>
-
-
 
 </div>
 
