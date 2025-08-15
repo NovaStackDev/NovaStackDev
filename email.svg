@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140" height="50" viewBox="0 0 140 50">
   <rect width="140" height="50" fill="#8a2be2"/>
-  <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff">Email</text>
+  <!-- Centered Email icon -->
+  <g transform="translate(70,25) scale(0.06) translate(-256,-256)">
+    <path fill="white" d="M48 64C21.5 64 0 85.5 0 112
+    c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6
+    c11.4 8.5 27 8.5 38.4 0L492.8 150.4
+    c12.1-9.1 19.2-23.3 19.2-38.4
+    c0-26.5-21.5-48-48-48H48zM0 176V384
+    c0 35.3 28.7 64 64 64H448c35.3 0 
+    64-28.7 64-64V176L294.4 339.2
+    c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+  </g>
 </svg>
