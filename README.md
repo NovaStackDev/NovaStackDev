@@ -4,15 +4,15 @@
 
 <h2>👤 Collaborate with me</h2>
 
-<p>
+<p align="center" style="margin: 0; padding: 0;">
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://your-cdn.com/whatsapp-left.svg" alt="WhatsApp" height="50" style="margin:0; padding:0;"/>
   </a>
   <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://your-cdn.com/email-middle.svg" alt="Email" height="50" style="margin:0; padding:0;"/>
   </a>
   <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://your-cdn.com/linkedin-right.svg" alt="LinkedIn" height="50" style="margin:0; padding:0;"/>
   </a>
 </p>
 
