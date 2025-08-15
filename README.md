@@ -17,7 +17,7 @@
 
   <!-- LinkedIn button -->
   <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linkedin.svg" width="140" height="50" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linkedIn.svg" width="140" height="50" alt="LinkedIn"/>
   </a>
 </p>
 
