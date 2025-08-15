@@ -5,7 +5,7 @@
 
 <h3 align="center" style="margin:0; padding:0;">
   <h3>👤Collaborate with me👤</h3>
-  <h4>🕹️Message me about a product🕹️</h4>
+  <h4>🕹️Ask about a product🕹️</h4>
   <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="85" height="50" alt="WhatsApp"/>
   </a><!--
