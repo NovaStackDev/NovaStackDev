@@ -1,24 +1,22 @@
-<!-- Centered SVG animated typing effect -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=BB00FF&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
 
 <h2 style="margin:0;">👤 Collaborate with me</h2>
 
-<p>
-  <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div style="display: inline-flex; overflow: hidden; border-radius: 12px;">
+  <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer" style="background-color: #8A2BE2; padding: 10px 16px; display: flex; align-items: center; text-decoration: none; color: white; font-weight: bold; border-right: 1px solid #6a1cb2; border-top-left-radius: 12px; border-bottom-left-radius: 12px;">
+    WhatsApp
   </a>
-</p>
-
+  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer" style="background-color: #8A2BE2; padding: 10px 16px; display: flex; align-items: center; text-decoration: none; color: white; font-weight: bold; border-right: 1px solid #6a1cb2;">
+    Email
+  </a>
+  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer" style="background-color: #8A2BE2; padding: 10px 16px; display: flex; align-items: center; text-decoration: none; color: white; font-weight: bold; border-top-right-radius: 12px; border-bottom-right-radius: 12px;">
+    LinkedIn
+  </a>
 </div>
 
+</div>
 
 
 ## 💻 Interests
