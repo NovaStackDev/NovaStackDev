@@ -18,10 +18,13 @@
 
 </div>
 
+---
+
 <p align="center" >
-<img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/avatar.png" width="400" height="750" alt="Linko"/>
+<img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/avatar.png" width="300" height="550" alt="Linko"/>
 </p>
 
+---
 
 ## 💻My Interests
 - Systems Programming
