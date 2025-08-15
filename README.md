@@ -80,12 +80,13 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 ---
 
 ## 📂 Other Projects
-- Event Orchestration Platform
+- Web and Mobile Event Orchestration Platform Beta
+- Linko - Connecting Service Providers to Event Planners
 - <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linko.jpg" width="140" height="50" alt="Linko"/>
-- Portable IoT Air Quality Monitoring System
+- Portable IoT Air Quality Monitoring System Beta
 - <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/zhenAir.jpg" width="140" height="50" alt="ZhenAir"/><img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/zhenAir_.jpg" width="140" height="50" alt="ZhenAir_"/><img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/zhen_Air_.jpg" width="140" height="50" alt="Zhen_Air_"/>
-- Banking System  
-- Movie Streaming Hub
+- Banking System Alpha
+- Movie Streaming Hub Alpha
 - <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/homeflix.png" width="140" height="50" alt="Linko"/>  
 - E-Commerce Platforms  
 - SQL Database Projects  
