@@ -5,12 +5,16 @@
 
 ## 💻 Interests:
 - Systems Programming
-- Performance Optimization
-- Linux Tools & Technologies
-- Web3 Ecosystem
-- .NET Development
-- Graphics Programming
 - Financial Market Making
+- Maximal extractable value
 - Business Intelligence
 - Deep Learning
 - HTTPS & Web Socket APIs
+- Web3 Ecosystems
+- Performance Optimization
+- .NET Development
+- Graphics Programming
+- Linux Tools & Technologies
+
+
+
