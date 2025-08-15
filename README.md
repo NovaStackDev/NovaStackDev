@@ -74,13 +74,13 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 - Contributing full-stack to enterprise resource planning, compliance automation, and API development and integration projects in C# .NET, Angular, PostgreSQL, Azure and auxiliary technologies.  
 - Modernized legacy systems, improving maintainability and performance.
 
-**Software Developer + — Landry’s Inc. (2025)**  
+**Software Developer + — Landry’s Inc. **  
 - Developed a management-facing web and mobile app for operational control and monitoring across hospitality, dining, gaming, and entertainment brands.  
 - Delivered a **multi-featured client-facing food delivery & reservation platform** with PCI DSS-compliant payments and rewards.
 - Check out <a> https://www.landrysinc.com/gaming </a>
 
 
-**Software Developer — RRPC Law (2024–2025)**  
+**Software Developer — RRPC Law **  
 - Built an intelligent agent driven modular loan origination and processing platform with compliance automation and document workflows.  
 - Web services integrated eSignatures, notarization, and audit generation.
 - Check out <a> https://www.rruhllaw.com </a> for more details.
