@@ -18,8 +18,12 @@
 
 </div>
 
+<p align="center" >
+<img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/avatar.png" width="400" height="750" alt="Linko"/>
+</p>
 
-## 💻 Interests
+
+## 💻My Interests
 - Systems Programming
 - Financial Market Making
 - Maximal Extractable Value
