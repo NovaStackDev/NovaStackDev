@@ -38,9 +38,7 @@
 
 ---
 
-Innovative full-stack software engineer with experience designing and delivering scalable, secure enterprise applications. Skilled in building robust APIs, optimizing databases, and leading cloud-based DevOps to speed up deployment and improve reliability. Proven ability to create smooth end-to-end solutions that boost efficiency and user experience. Comfortable across the full stack, writing clean code, and collaborating in cross-functional teams.
-
-(Not all proyects are accessible to the public.)
+I'm a full-stack software engineer with experience designing and delivering scalable, secure enterprise applications. Skilled in building robust APIs, optimizing databases, and leading cloud-based DevOps to speed up deployment and improve reliability. Proven ability to create smooth end-to-end solutions that boost efficiency and user experience. Comfortable across the full stack, writing clean code, and collaborating in cross-functional teams.
 
 ---
 
@@ -55,46 +53,51 @@ Innovative full-stack software engineer with experience designing and delivering
 ---
 
 ## 🏆 Selected Achievements
-- Engineered a **food delivery application** for 600+ locations supporting ~58,000 employees, serving millions annually, integrated with reservations & logistics.  
+- Engineered a **food delivery application** for 600+ locations supporting ~58,000 employees, serving millions of customers annually, integrated with reservations & logistics.  
 - Built an **AI-driven loan origination platform** automating compliance, document handling, and eSignatures for a national mortgage law firm.  
 - Developed **role-based dashboards** with payment gateways, analytics, and operational insights across multiple industries.  
 - Created a **behavior pattern recognition perceptron** for predictive analytics in recommendation systems and algorithmic market analysis.  
-- Integrated robust QA frameworks for multiple web and mobile applications.  
+- Integrated robust QA frameworks for multiple web and mobile applications.
+
+**Some of the projects listed are private and can't be shared nor accessed by general public**
 
 ---
 
 ## 💼 Professional Experience
 **Full-Stack Software Engineer — Serverless Solutions**  
-_Internship → Full-Time (1.5 years)_  
-- Delivered ERP, compliance automation, and API projects in C# .NET, Angular, PostgreSQL, and Azure.  
+_Internship (.5  years) → Full-Time (1.5 years)_  
+- Contributing full-stack to enterprise resource planning, compliance automation, and API development and integration projects in C# .NET, Angular, PostgreSQL, Azure and auxiliary technologies.  
 - Modernized legacy systems, improving maintainability and performance.
 
-**Software Developer I — Landry’s Inc. (2025)**  
-- Developed management-facing modules for operational control and monitoring across hospitality, dining, gaming, and entertainment brands.  
-- Delivered a **multi-featured client-facing food delivery & reservation platform** with PCI DSS-compliant payments and rewards.  
+**Software Developer + — Landry’s Inc. (2025)**  
+- Developed a management-facing web and mobile app for operational control and monitoring across hospitality, dining, gaming, and entertainment brands.  
+- Delivered a **multi-featured client-facing food delivery & reservation platform** with PCI DSS-compliant payments and rewards.
+- Check out <a> https://www.landrysinc.com/gaming </a>
 
-**Entry Level Software Developer — RRPC Law (2024–2025)**  
-- Built an AI-driven modular loan origination platform with compliance automation and document workflows.  
-- Integrated eSignatures, notarization, and audit generation.  
+
+**Software Developer — RRPC Law (2024–2025)**  
+- Built an intelligent agent driven modular loan origination and processing platform with compliance automation and document workflows.  
+- Web services integrated eSignatures, notarization, and audit generation.
+- Check out <a> https://www.rruhllaw.com </a> for more details.
 
 ---
 
-## 📂 Projects
-- Event Orchestration Platform  
-- Portable IoT Air Quality Monitoring System  
+## 📂 Other Projects
+- Event Orchestration Platform (linko) 
+- Portable IoT Air Quality Monitoring System 
 - Banking System  
 - Movie Streaming Hub  
-- E-Commerce Platform  
+- E-Commerce Platforms  
 - SQL Database Projects  
 - Client-Server Work Environments  
 - Design Patterns Implementations  
 
-More projects at [GitHub @NovaStackGod](https://github.com/NovaStackGod)  
-
 ---
 
 ## 🎓 Education & Certifications
-- **Universidad Cenfotec** — Computer Engineering  
+- **Universidad Cenfotec**
+- **Universidad de Costa Rica**
+- **La Salle Costa Rica**
 - CCNA  
 - Scrum Fundamentals  
 - Six Sigma Yellow Belt
