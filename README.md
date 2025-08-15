@@ -121,3 +121,4 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 // SOL: 8tWBT1hsWXkUqCZmCoMLqiCHNzzV5Cqbokv2Zneh5vhs 
 
 // BTC: bc1q6j5zzqgxxfeers3dfgu0rc783rppx8a9vr8kny
+
