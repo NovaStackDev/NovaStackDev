@@ -4,22 +4,16 @@
 
 <h2>👤 Collaborate with me</h2>
 
-<p align="center">
-  <!-- WhatsApp button -->
+<p align="center" style="margin:0; padding:0;">
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="140" height="50" alt="WhatsApp"/>
-  </a>
-
-  <!-- Email button -->
-  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
+  </a><a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/email.svg" width="140" height="50" alt="Email"/>
-  </a>
-
-  <!-- LinkedIn button -->
-  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
+  </a><a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linkedIn.svg" width="140" height="50" alt="LinkedIn"/>
   </a>
 </p>
+
 
 </div>
 
