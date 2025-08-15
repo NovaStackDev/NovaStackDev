@@ -4,17 +4,20 @@
 
 <h2 style="margin:0;">👤 Collaborate with me</h2>
 
-<div style="display: inline-flex; overflow: hidden; border-radius: 12px;">
-  <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer" style="background-color: #8A2BE2; padding: 10px 16px; display: flex; align-items: center; text-decoration: none; color: white; font-weight: bold; border-right: 1px solid #6a1cb2; border-top-left-radius: 12px; border-bottom-left-radius: 12px;">
-    WhatsApp
+<p>
+  <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=8A2BE2&color=8A2BE2&logoWidth=20&link=https://wa.me/50672049343" 
+         style="border-top-left-radius: 25px; border-bottom-left-radius: 25px; margin-right:0;"/>
   </a>
-  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer" style="background-color: #8A2BE2; padding: 10px 16px; display: flex; align-items: center; text-decoration: none; color: white; font-weight: bold; border-right: 1px solid #6a1cb2;">
-    Email
+  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2&color=8A2BE2&logoWidth=20&link=mailto:dfiattv@ucenfotec.ac.cr" 
+         style="margin:0;"/>
   </a>
-  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer" style="background-color: #8A2BE2; padding: 10px 16px; display: flex; align-items: center; text-decoration: none; color: white; font-weight: bold; border-top-right-radius: 12px; border-bottom-right-radius: 12px;">
-    LinkedIn
+  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A2BE2&color=8A2BE2&logoWidth=20&link=https://linkedin.com/in/diego-fiatt" 
+         style="border-top-right-radius: 25px; border-bottom-right-radius: 25px; margin-left:0;"/>
   </a>
-</div>
+</p>
 
 </div>
 
