@@ -1,9 +1,23 @@
 <!-- Centered SVG animated typing effect -->
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
+</h1>
+
+<p> Open to collaborations </p>
+
+## 👤 About Me
+<p align="center">
+  <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-Open to collaborations
 
 ## 💻 Interests
 - Systems Programming
@@ -19,19 +33,6 @@ Open to collaborations
 - Linux Tools & Technologies
 
 ---
-
-## 👤 About Me
-<p align="center">
-  <a href="https://wa.me/50672049343" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:dfiattv@ucenfotec.ac.cr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/diego-fiatt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 Innovative full-stack software engineer with experience designing and delivering scalable, secure enterprise applications. Skilled in building robust APIs, optimizing databases, and leading cloud-based DevOps to speed up deployment and improve reliability. Proven ability to create smooth end-to-end solutions that boost efficiency and user experience. Comfortable across the full stack, writing clean code, and collaborating in cross-functional teams.
 
