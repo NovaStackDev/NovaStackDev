@@ -2,7 +2,7 @@
   <a href="https://wa.me/1234567890" target="_blank">
     <rect x="0" y="0" width="140" height="50" fill="#8a2be2" rx="25" ry="25"/>
     <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-      font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="white">
       WhatsApp
     </text>
   </a>
