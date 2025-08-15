@@ -4,7 +4,8 @@
 
 
 <h3 align="center" style="margin:0; padding:0;">
-  <h3>👤Collaborate with me!</h3>
+  <h3>👤Collaborate with me👤</h3>
+  <h4>🕹️Message me about a product🕹️</h4>
   <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="85" height="50" alt="WhatsApp"/>
   </a><!--
@@ -113,3 +114,8 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 - CCNA  
 - Scrum Fundamentals  
 - Six Sigma Yellow Belt
+
+Donations are appreciated!
+// ETH: 0xb4e3f958e9f7853B5D5256BD966Ef5328D08156D 
+// SOL: 8tWBT1hsWXkUqCZmCoMLqiCHNzzV5Cqbokv2Zneh5vhs 
+// BTC: bc1q6j5zzqgxxfeers3dfgu0rc783rppx8a9vr8kny
