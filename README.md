@@ -16,9 +16,6 @@
   </a>
 </p>
 
-
-
-
 </div>
 
 
@@ -93,7 +90,8 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 - SQL Database Projects  
 - Client-Server Work Environments  
 - Design Patterns Implementations  
-
+- Other stuff.
+  
 ---
 
 ## 🎓 Education & Certifications
