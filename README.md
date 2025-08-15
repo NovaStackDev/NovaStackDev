@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
 
-<h2>👤 Collaborate with me</h2>
 
 <p align="center" style="margin:0; padding:0;">
+  <h3>👤Collaborate with me!</h3>
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="140" height="50" alt="WhatsApp"/>
   </a><!--
@@ -27,13 +27,14 @@
 - Financial Market Making
 - Maximal Extractable Value
 - Business Intelligence
-- Deep Learning
+- AI and Deep Learning
 - HTTPS & Web Socket APIs
 - Web3 Ecosystems
 - Performance Optimization
 - .NET Development
 - Graphics Programming
 - Linux Tools & Technologies
+- Game making
 
 ---
 
