@@ -3,7 +3,7 @@
   <rect width="140" height="50" fill="#8a2be2" rx="25" ry="25" />
   <rect x="70" width="70" height="50" fill="#8a2be2"/>
   <!-- Centered WhatsApp logo -->
-  <g transform="translate(35,25) scale(0.05) translate(-256,-256)">
+  <g transform="translate(80,25) scale(0.05) translate(-256,-256)">
     <path fill="white" d="M380.9 97.1C339 55.1 283.2 32 223.9 
     32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 
     29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 
@@ -34,3 +34,4 @@
     -10.5-6.6z"/>
   </g>
 </svg>
+
