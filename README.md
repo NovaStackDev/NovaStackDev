@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
 </h1>
 
-## 👤 About Me
 <p align="center">
+  👤 Collaborate with me
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -36,7 +36,6 @@ Innovative full-stack software engineer with experience designing and delivering
 
 (Not all proyects are accessible to the public.)
 
-Open to collaborations
 ---
 
 ## 🛠 Core Skills
