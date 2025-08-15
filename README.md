@@ -40,6 +40,8 @@
 - Graphics Programming
 - Linux Tools & Technologies
 - Game making
+- Sports Cars
+- Auto Tuning
 
 ---
 
