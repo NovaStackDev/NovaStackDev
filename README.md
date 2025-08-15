@@ -85,7 +85,8 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 - Portable IoT Air Quality Monitoring System
 - <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/zhenAir.jpg" width="140" height="50" alt="ZhenAir"/><img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/zhenAir_.jpg" width="140" height="50" alt="ZhenAir_"/><img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/zhen_Air_.jpg" width="140" height="50" alt="Zhen_Air_"/>
 - Banking System  
-- Movie Streaming Hub  
+- Movie Streaming Hub
+- <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/homeflix.png" width="140" height="50" alt="Linko"/>  
 - E-Commerce Platforms  
 - SQL Database Projects  
 - Client-Server Work Environments  
