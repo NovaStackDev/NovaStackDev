@@ -2,20 +2,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=BB00FF&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
 
-<h2 style="margin:0;">👤 Collaborate with me</h2>
+<h2>👤 Collaborate with me</h2>
 
 <p>
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=8A2BE2&color=8A2BE2&logoWidth=20&link=https://wa.me/50672049343" 
-         style="border-top-left-radius: 25px; border-bottom-left-radius: 25px; margin-right:0;"/>
+    <img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2&color=8A2BE2&logoWidth=20&link=mailto:dfiattv@ucenfotec.ac.cr" 
-         style="margin:0;"/>
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A2BE2&color=8A2BE2&logoWidth=20&link=https://linkedin.com/in/diego-fiatt" 
-         style="border-top-right-radius: 25px; border-bottom-right-radius: 25px; margin-left:0;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
