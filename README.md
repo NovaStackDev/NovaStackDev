@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=200&color=00FF00&center=true&vCenter=true&width=600&lines=Nova+Stack+Dev" alt="Typing SVG" />
 </h1>
 
-<p> Open to collaborations </p>
-
 ## 👤 About Me
 <p align="center">
   <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
@@ -37,6 +35,8 @@
 Innovative full-stack software engineer with experience designing and delivering scalable, secure enterprise applications. Skilled in building robust APIs, optimizing databases, and leading cloud-based DevOps to speed up deployment and improve reliability. Proven ability to create smooth end-to-end solutions that boost efficiency and user experience. Comfortable across the full stack, writing clean code, and collaborating in cross-functional teams.
 
 (Not all proyects are accessible to the public.)
+
+Open to collaborations
 ---
 
 ## 🛠 Core Skills
