@@ -4,17 +4,26 @@
 
 <h2>👤 Collaborate with me</h2>
 
-<p align="center" style="margin: 0; padding: 0;">
-  <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
-    <img src="https://your-cdn.com/whatsapp-left.svg" alt="WhatsApp" height="50" style="margin:0; padding:0;"/>
-  </a>
-  <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
-    <img src="https://your-cdn.com/email-middle.svg" alt="Email" height="50" style="margin:0; padding:0;"/>
-  </a>
-  <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
-    <img src="https://your-cdn.com/linkedin-right.svg" alt="LinkedIn" height="50" style="margin:0; padding:0;"/>
-  </a>
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="50">
+    <!-- WhatsApp button -->
+    <a href="https://wa.me/50672049343" target="_blank" rel="noopener noreferrer">
+      <rect x="0" y="0" width="140" height="50" fill="#8a2be2" rx="25" ry="25"/>
+      <rect x="120" y="0" width="20" height="50" fill="#8a2be2"/>
+      <text x="70" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle" alignment-baseline="middle">WhatsApp</text>
+    </a>
+    <a href="mailto:dfiattv@ucenfotec.ac.cr" target="_blank" rel="noopener noreferrer">
+      <rect x="140" y="0" width="140" height="50" fill="#8a2be2"/>
+      <text x="210" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle" alignment-baseline="middle">Email</text>
+    </a>
+    <a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
+      <rect x="280" y="0" width="140" height="50" fill="#8a2be2" rx="25" ry="25"/>
+      <rect x="280" y="0" width="20" height="50" fill="#8a2be2"/>
+      <text x="350" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle" alignment-baseline="middle">LinkedIn</text>
+    </a>
+  </svg>
 </p>
+
 
 </div>
 
