@@ -29,7 +29,7 @@
 ## 💻My Interests
 - Systems Programming
 - Financial Market Making
-- Maximal Extractable Value
+- Blockchain
 - Validation
 - Business Intelligence
 - AI and Deep Learning
