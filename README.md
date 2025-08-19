@@ -5,7 +5,7 @@
   <h3>👤Ask About A Product👤</h3>
   <h4>- Or -</h4>
   <h3>👤Collaboration👤</h3>
-  <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/whatsapp.svg" width="85" height="50" alt="WhatsApp"/>
   </a><!--
     --><a href="mailto:nova.stack.contact@gmail.com" target="_blank" rel="noopener noreferrer">
