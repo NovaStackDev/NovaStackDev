@@ -11,7 +11,7 @@
     --><a href="mailto:nova.stack.contact@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/email.svg" width="85" height="50" alt="Email"/>
   </a><!--
-  --><a href="https://linkedin.com/in/diego-fiatt" target="_blank" rel="noopener noreferrer">
+  --><a href="" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/NovaStackDev/NovaStackDev/main/linkedIn.svg" width="85" height="50" alt="LinkedIn"/>
   </a>
 </h3>
