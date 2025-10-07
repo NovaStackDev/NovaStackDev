@@ -118,7 +118,7 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 
 // ETH: 0xb4e3f958e9f7853B5D5256BD966Ef5328D08156D 
 
-// SOL: 8tWBT1hsWXkUqCZmCoMLqiCHNzzV5Cqbokv2Zneh5vhs 
+// SOL: dLVqsThtQ1tWZ4rrgHMAk8ANMovUxqkJ44gDJJVJPSc 
 
 // BTC: bc1q6j5zzqgxxfeers3dfgu0rc783rppx8a9vr8kny
 
