@@ -114,11 +114,10 @@ _Internship (.5  years) → Full-Time (1.5 years)_
 - Scrum Fundamentals  
 - Six Sigma Yellow Belt
 
-## Donations are appreciated!
-
-// ETH: 0xb4e3f958e9f7853B5D5256BD966Ef5328D08156D 
+## Donations are appreciated! 
 
 // SOL: dLVqsThtQ1tWZ4rrgHMAk8ANMovUxqkJ44gDJJVJPSc 
 
-// BTC: bc1q6j5zzqgxxfeers3dfgu0rc783rppx8a9vr8kny
+// ETH: 0x319e75c4e9190b858d3380da6de0a95246dc16a0
 
+// BTC: 13KgWLwEbpaX2oFXXpAKjAMz2Pg5rd7ebv
